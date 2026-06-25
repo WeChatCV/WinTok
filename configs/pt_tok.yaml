@@ -1,0 +1,4 @@
+datasets:
+  - data_path: 'path_to_data'
+    num_samples: xxx
+    type: 'webdataset'
